@@ -1,1 +1,1 @@
-echo "finish" > /tmp/ok.log
+echo "finish" > /home/ubuntu/ok.log
